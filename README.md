@@ -73,4 +73,6 @@ By incorporating these key features, your project provides a **comprehensive EEG
    - **Streamlit** – Builds an interactive web application for EEG analysis  
 
 6. **File Handling:**  
-   - **CSV file processing** – Reads multi-channel EEG data for analysis  
+   - **CSV file processing** – Reads multi-channel EEG data for analysis
+
+  ![Image](https://github.com/user-attachments/assets/58bcdc6f-5b6d-47e7-8e68-a0ba1ef84b3b)
