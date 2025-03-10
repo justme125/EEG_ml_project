@@ -1,4 +1,3 @@
-# EEG_ml_project
 # BRAIN X EEG
 
 
